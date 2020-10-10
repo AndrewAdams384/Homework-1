@@ -1,2 +1,2 @@
 # Homework
-All class homework is in here. 
+This is the repository for the code refactor assignment.
